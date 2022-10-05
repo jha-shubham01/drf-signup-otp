@@ -1,8 +1,16 @@
 from pathlib import Path
+import environ
+
+env = environ.Env()
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+environ.Env.read_env(BASE_DIR / '.env')
+
+SMS_API_KEY = env("SMS_API_KEY")
+
+MAX_OTP_TRY = 3
 
 AUTH_USER_MODEL = "demo.UserModel"
 MIN_PASSWORD_LENGTH = 8
@@ -115,5 +123,3 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-MAX_OTP_TRY = 3
