@@ -17,4 +17,5 @@ Prerequisites: Python3, virutalenv
 9. Visit the server link (http://localhost:8000/)
 
 ## Video Example:
-Coming soon...
+Part 1: https://youtu.be/41YtXPA-Jjg
+Part 2: Coming soon...
