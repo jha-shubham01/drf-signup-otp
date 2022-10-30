@@ -1,5 +1,5 @@
 <template>
-  <VerifyOTPComponent :userId=userId />
+  <VerifyOTPComponent :userId="userId" />
 </template>
 
 <script>
