@@ -1,11 +1,11 @@
-# Signup in Django, and DRF using OTP
+# Signup in Django, DRF, and VueJS2 using OTP
 This project is used for creating user signup in Django, and Django Rest Framework by using OTP<br/>
 And limiting the OTP sending to 3 times. After 3rd OTP user can request a new OTP after an hour.
 
-## To run the project
+## To run the backend project
 Prerequisites: Python3, virutalenv
 
-1. Checkout the code
+1. Checkout the code and nagivate inside backend/ dir
 2. Create a virtual environment (virutalenv .env)
 3. Activate the environment (source .env/bin/activate)
 4. Install all the packages (pip install -r requirements.txt)
@@ -18,4 +18,10 @@ Prerequisites: Python3, virutalenv
 
 ## Video Example:
 Part 1: https://youtu.be/41YtXPA-Jjg<br/>
-Part 2: Coming soon...
+Part 2: https://youtu.be/vrTMrGsyLBQ<br/>
+Part 3: https://youtu.be/eqNzSLhIUtk<br/>
+Part 4: https://youtu.be/O7kskU-3ZIM<br/>
+Part 5: https://youtu.be/o6EoVxQ1yoQ<br/>
+Part 6: https://youtu.be/HxreYeaKP0c<br/>
+Part 7: Coming soon...<br/>
+Part 8: Coming soon...<br/>
