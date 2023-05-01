@@ -23,5 +23,5 @@ Part 3: https://youtu.be/eqNzSLhIUtk<br/>
 Part 4: https://youtu.be/O7kskU-3ZIM<br/>
 Part 5: https://youtu.be/o6EoVxQ1yoQ<br/>
 Part 6: https://youtu.be/HxreYeaKP0c<br/>
-Part 7: Coming soon...<br/>
-Part 8: Coming soon...<br/>
+Part 7: https://youtu.be/a7-YnjyOn_8<br/>
+Part 8: https://youtu.be/iQGh2AHksIE<br/>
